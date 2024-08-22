@@ -55,7 +55,7 @@
         "title": "Mods",
         "content": {
             "none": "0 mods found",
-            "found": "{0} mods found"
+            "found": "{{count}} mods found"
         }
     }
 }
