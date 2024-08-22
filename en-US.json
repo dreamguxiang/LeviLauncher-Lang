@@ -183,5 +183,9 @@
                 "title": "Welcome"
             }
         }
+    },
+    "aboutcard": {
+        "title": "About",
+        "description": "© 2024 {{name}}. All rights reserved."
     }
 }
