@@ -1,3 +1,18 @@
 {
-    "app.settings": "Settings"
+    "app.settings": "Settings",
+    "launcherpage.delete.failed.title": "Delete Failed",
+    "launcherpage.delete.failed.content": "Please try again later.",
+    "launcherpage.delete.failed.close.button": "Close",
+    "launcherpage.launch.failed.title": "Launch Error",
+    "launcherpage.launch.failed.content": "You did not select any version, please go to the download page to download it!",
+    "launcherpage.launch.failed.download.button": "Download Page",
+    "launcherpage.launch.failed.close.button": "Close",
+    "launcherpage.deleting.failed.title": "Deleting",
+    "launcherpage.delete.complete.title": "Delete Complete",
+    "launcherpage.delete.complete.content": "The selected version has been deleted successfully!",
+    "launcherpage.delete.complete.close.button": "Close",
+    "launcherpage.delete.confirm.title": "Confirm Delete",
+    "launcherpage.delete.confirm.content": " Are you sure you want to delete this version? This operation cannot be undone.",
+    "launcherpage.delete.confirm.delete.button": "Delete",
+    "launcherpage.delete.confirm.cancel.button": "Cancel"
 }
