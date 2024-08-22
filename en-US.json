@@ -1,6 +1,7 @@
 {
     "app": {
-        "settings": "Settings"
+        "settings": "Settings",
+        "lang": "Language"
     },
     "launcherpage": {
         "launch_button": "Launch",

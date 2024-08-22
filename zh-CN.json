@@ -1,6 +1,7 @@
 {
     "app": {
-        "settings": "设置"
+        "settings": "设置",
+        "lang": "语言"
     },
     "launcherpage": {
         "launch_button": "启动",
