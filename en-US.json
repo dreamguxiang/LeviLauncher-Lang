@@ -3,6 +3,7 @@
         "settings": "Settings"
     },
     "launcherpage": {
+        "launch_button": "Launch",
         "delete": {
             "failed": {
                 "title": "Delete Failed",
